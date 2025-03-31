@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **DSA With CPP**
 
-- 👨‍💻 All of my projects are available at [https://bishalchettri.netlify.app/]
-
 - 📝 I regularly write articles on [Meduim.com](Meduim.com)
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **CPP and Java**
 
 - 📫 How to reach me **bissurokaha@gmail.com**
 
