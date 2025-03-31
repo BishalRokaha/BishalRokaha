@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/bishal rokaha" target="blank"><img src="https://img.shields.io/twitter/follow/bishal rokaha?logo=twitter&style=for-the-badge" alt="bishal rokaha" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **DSA With CPP**
 
 - 👨‍💻 All of my projects are available at [https://bishalchettri.netlify.app/]
 
