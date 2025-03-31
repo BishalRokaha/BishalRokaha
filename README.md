@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://bishalchettri.netlify.app/](https://bishalchettri.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bishalchettri.netlify.app/]
 
 - 📝 I regularly write articles on [Meduim.com](Meduim.com)
 
