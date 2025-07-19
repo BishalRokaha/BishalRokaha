@@ -1,4 +1,3 @@
-<img src="https://github.com/BishalRokaha/Travel/blob/main/BOOT/images/Add%20a%20heading.gif" height = "400" width = "1280" >
   <h1 align="center">Hi 👋, I'm Bishal Rokaha</h1>
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
